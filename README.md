@@ -1,4 +1,4 @@
-# ANIRUDH-VIJAY_DORM_Lab-4_DBMS
+# ANIRUDH-VIJAY_D&ORM_Lab-4_DBMS
 This Repository has solution for Lab 4 Problem Statement
 * You are part of a team which is involved in developing an E-Commerce Website. The E-commerce website manages its data in the Database..
 * 1) You are required to create tables for supplier,customer,category,product,supplier_pricing,order,rating to store the data for the E-commerce with the schema.
